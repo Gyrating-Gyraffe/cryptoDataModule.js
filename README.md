@@ -3,7 +3,7 @@ Data module for Crypto website project (John Bryce Project no.2)
 More in-depth documentation (in English) in "/documentation/README_FULL.pdf"
 ![plot](./documentation/DataModule_Flowchart_v2.png)
 <div dir="rtl">
-## התקנה ושימוש
+<h1>התקנה ושימוש</h1>
 כדי להתקין את המודול יש להעתיק cryptoDataModule.js לתיקיית הפרויקט שלכם או לתיקייה משנית בפרוייקט. לאחר מכן יש לבצע אימפורט למודול לקובץ הmain הראשי שלכם כמו שמופיע להלן:
 
 ![plot](./documentation/DataModule_ImportStatement.png)
